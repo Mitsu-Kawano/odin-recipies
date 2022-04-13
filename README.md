@@ -1,3 +1,3 @@
 # odin-recipies
 
-information
+recipes project
